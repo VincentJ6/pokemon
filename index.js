@@ -1,4 +1,5 @@
 async function fetchData(){
+
     try{
 
         const pokemonName = document.getElementById("pokemonName").value.toLowerCase();
